@@ -12,3 +12,36 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 * **smoker**: Smoking
 * **region**: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 * **charges**: Individual medical costs billed by health insurance
+## 🌳Project Tree
+```
+C:.
+|   app.py
+|   Dockerfile
+|   Medical_Insurance_Notebook.ipynb
+|   Procfile
+|   project_tree.txt
+|   requirements.txt
+|   
++---.ipynb_checkpoints
+|       Medical_Insurance_Notebook-checkpoint.ipynb
+|       
++---dataset
+|       Test_Data.csv
+|       Train_Data.csv
+|       
++---extra
+|       car_insurance.gif
+|       educ.webp
+|       education.gif
+|       health_insurance.gif
+|       insurance.jpg
+|       insurance_work.png
+|       life_insurance_gif.gif
+|       Money_Homeowners_insurance.gif
+|       
+\---saved_model
+        random_forest.pkl
+
+```
+## ⚒️Tools Used
+
