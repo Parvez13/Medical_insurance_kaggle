@@ -16,9 +16,7 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 ```
 C:.
 |   app.py
-|   Dockerfile
 |   Medical_Insurance_Notebook.ipynb
-|   Procfile
 |   project_tree.txt
 |   requirements.txt
 |   
